@@ -1,7 +1,7 @@
 Unbound Droplist
 ================
 
-Like a Droplist field, but it's content is not bound to the Sitecore tree.  It uses pipe-delimited string values as it's source.
+Like a Droplist field, but its content is not bound to the Sitecore tree.  It uses pipe-delimited string values as its source.
 
 When building a template:
 * Set "Unbound Droplist" as your field
